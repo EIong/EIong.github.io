@@ -6,7 +6,7 @@
   <link href="https://eiong.top/atom.xml" rel="self"/>
   
   <link href="https://eiong.top/"/>
-  <updated>2021-05-30T15:42:44.001Z</updated>
+  <updated>2021-06-30T16:33:44.981Z</updated>
   <id>https://eiong.top/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>BaseApp框架简介</title>
+    <link href="https://eiong.top/2021/06/29/BaseApp%E6%A1%86%E6%9E%B6%E7%AE%80%E4%BB%8B/"/>
+    <id>https://eiong.top/2021/06/29/BaseApp%E6%A1%86%E6%9E%B6%E7%AE%80%E4%BB%8B/</id>
+    <published>2021-06-30T00:17:43.000Z</published>
+    <updated>2021-06-30T16:33:44.981Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="框架" scheme="https://eiong.top/categories/%E6%A1%86%E6%9E%B6/"/>
+    
+    
+    <category term="Android" scheme="https://eiong.top/tags/Android/"/>
+    
+    <category term="MVC" scheme="https://eiong.top/tags/MVC/"/>
+    
+    <category term="MVP" scheme="https://eiong.top/tags/MVP/"/>
+    
+  </entry>
+  
+  <entry>
     <title>GitHub国内镜像</title>
     <link href="https://eiong.top/2021/05/27/GitHub%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F/"/>
     <id>https://eiong.top/2021/05/27/GitHub%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F/</id>
     <published>2021-05-27T12:09:28.000Z</published>
-    <updated>2021-05-30T15:42:44.001Z</updated>
+    <updated>2021-06-30T16:13:39.709Z</updated>
     
     
       
