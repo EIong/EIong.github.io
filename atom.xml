@@ -6,7 +6,7 @@
   <link href="https://eiong.top/atom.xml" rel="self"/>
   
   <link href="https://eiong.top/"/>
-  <updated>2021-06-30T16:33:44.981Z</updated>
+  <updated>2021-07-01T15:44:09.822Z</updated>
   <id>https://eiong.top/</id>
   
   <author>
@@ -18,19 +18,15 @@
   
   <entry>
     <title>BaseApp框架简介</title>
-    <link href="https://eiong.top/2021/06/29/BaseApp%E6%A1%86%E6%9E%B6%E7%AE%80%E4%BB%8B/"/>
-    <id>https://eiong.top/2021/06/29/BaseApp%E6%A1%86%E6%9E%B6%E7%AE%80%E4%BB%8B/</id>
-    <published>2021-06-30T00:17:43.000Z</published>
-    <updated>2021-06-30T16:33:44.981Z</updated>
+    <link href="https://eiong.top/2021/06/30/BaseApp%E6%A1%86%E6%9E%B6%E7%AE%80%E4%BB%8B/"/>
+    <id>https://eiong.top/2021/06/30/BaseApp%E6%A1%86%E6%9E%B6%E7%AE%80%E4%BB%8B/</id>
+    <published>2021-06-30T12:09:28.000Z</published>
+    <updated>2021-07-01T15:44:09.822Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;一个封装了加载状态、屏幕适配和权限请求的Android基础MVC&amp;amp;MVP开发框架。👉&lt;a href=&quot;https://github.com/EIong/BaseApp&quot;&gt;项目地址&lt;/a&gt;👈&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
     
     
     
@@ -50,16 +46,12 @@
     <link href="https://eiong.top/2021/05/27/GitHub%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F/"/>
     <id>https://eiong.top/2021/05/27/GitHub%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F/</id>
     <published>2021-05-27T12:09:28.000Z</published>
-    <updated>2021-06-30T16:13:39.709Z</updated>
+    <updated>2021-07-01T15:35:27.973Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">&lt;h3 id=&quot;推荐镜像地址&quot;&gt;&lt;a href=&quot;#推荐镜像地址&quot; class=&quot;headerlink&quot; title=&quot;推荐镜像地址&quot;&gt;&lt;/a&gt;推荐镜像地址&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://hub.fastgit.org/&quot;&gt;https://hub.fastgit.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com.cnpmjs.org/&quot;&gt;https://github.com.cnpmjs.org&lt;/a&gt;</summary>
     
     
     
